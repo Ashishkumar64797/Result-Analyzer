@@ -1,0 +1,427 @@
+ComputerScienceEngineering(CSE):
+  first_sem :
+    subjects :
+      theory: 
+        - {name: 'Environmental science',credits : 0}
+        - {name: 'Ess. of Indian Trad.Knowledge' , credits: 0}
+        - {name: 'Mathematics - I', credits: 4}
+        - {name: 'Chemistry' , credits: 4}
+        - {name: 'Prog.For Problem Solving' , credits: 3}
+      practical:
+        - {name: 'Chemistry Lab' , credits: 1.5}
+        - {name: 'Workshop-Manuf . Process Lab' , credits: 3}
+        - {name: 'Prog.For Problem Solving Lab' , credits: 1}
+    sem_credits: 16.5
+  second_sem :
+    subjects :
+      theory:
+        - {name: 'English' , credits: 2 }
+        - {name: 'Mathematics-II' , credits: 4 }
+        - {name: 'Physics' , credits: 4}
+        - {name: 'Basic Electrical Eng.' , credits: 4 }
+        - {name: 'Indian Constitution' , credits: 0 }
+      practical:  
+        - {name: 'English Lab' , credits: 1 }
+        - {name: 'Engineering Graphics Lab' , credits: 3 }
+        - {name: 'Physics Lab' , credits: 1.5 }
+        - {name: 'Basic Electrical Eng.Lab' , credits: 1 }
+    sem_credits: 20.5
+  third_sem :
+    subjects :
+      theory:
+        - {name: 'Operations Research', credits: 3}
+        - {name: 'Basic Electronics', credits: 3}
+        - {name: 'Digital Electronics', credits: 3}
+        - {name: 'Data Structures and ALgorithms', credits: 3}
+        - {name: 'Discrete Mathematics', credits: 3}
+        - {name: 'OOP Using Java', credits: 3}
+      practical:  
+        - {name: 'Data Struc.And ALgorithms Lab', credits: 1}
+        - {name: 'Advanced Computer Skills Lab', credits: 1}
+        - {name: 'Basic Electronics Lab', credits: 1}
+        - {name: 'OOP Using Java Lab', credits: 1}
+    sem_credits: 22
+  fourth_sem :
+    subjects :
+      theory:
+        - {name: 'Operating Systems', credits: 3}
+        - {name: 'Database Management Systems', credits: 3}
+        - {name: 'Finance and Accounting', credits: 3}
+        - {name: 'Computer Organization', credits: 3}
+        - {name: 'Signals and Systems', credits: 3}
+        - {name: 'Mathematics-III', credits: 3}
+        - {name: 'Effective Tech.Comm.In English', credits: 3}
+      practical:  
+        - {name: 'Database Management Sys.Lab', credits: 1}
+        - {name: 'Computer Organization Lab', credits: 1}
+        - {name: 'Operating Systems Lab', credits: 1}
+    sem_credits: 24
+  fifth_sem :
+    subjects :
+      theory:
+        - {name: 'AUTOMATA LANGUAGES&COMPUTATION', credits: 3}
+        - {name: 'PRINCIPLES OF PROGRAM.LANG.', credits: 3}
+        - {name: 'Professional Elective –I', credits: 3}
+        - {name: 'ARTIFICIAL INTELLIGENCE', credits: 3}
+        - {name: 'SOFTWARE ENGINEERING', credits: 3}
+        - {name: 'COMPUTER NETWORKS', credits: 3}
+      practical:
+        - {name: 'ARTIFICIAL INTELLIGENCE LAB', credits: 1}
+        - {name: 'COMPUTER NETWORKS LAB', credits: 1}
+        - {name: 'SOFTWARE ENGINEERING LAB', credits: 1}
+    sem_credits: 21
+  sixth_sem :
+    subjects :
+      theory:
+        - {name: 'Compiler Design', credits: 3}
+        - {name: 'Design and Analysis of Algorithms', credits: 3}
+        - {name: 'Machine learning', credits: 3}
+        - {name: 'Cryptography and Network Security', credits: 3}
+        - {name: 'Professional Elective –II', credits: 3}
+        - {name: 'Open Elective-I', credits: 3}
+      practical:
+        - {name: 'Machine learning LAB', credits: 1}
+        - {name: 'Design and Analysis of Algorithms Lab', credits: 1}
+        - {name: 'Mini Project', credits: 2}
+        - {name: 'Summer Internship*', credits: 0}
+    sem_credits: 22
+  seventh_sem :
+    subjects :
+      theory:
+        - {name: 'Distributed Systems', credits: 3}
+        - {name: 'Professional Elective –III', credits: 3}
+        - {name: 'Professional Elective –IV', credits: 3}
+        - {name: 'Open Elective -II', credits: 3}
+      practical:
+        - {name: 'Distributed Systems Lab', credits: 1}
+        - {name: 'Web Technologies Lab', credits: 2}
+        - {name: 'Project Work – I', credits: 3}
+        - {name: 'Summer Internship', credits: 2}
+    sem_credits: 20
+  eighth_sem :
+    subjects :
+      theory:
+        - {name: 'Professional Elective -V', credits: 3}
+        - {name: 'Open Elective – III', credits: 3}
+      practical:
+        - {name: 'Project Work – II', credits: 8}
+    sem_credits: 14
+
+#------------------xxxx-- Information Technology xxxx----------------------
+InformationTechnology(IT):
+  first_sem:
+    subjects:
+      theory:
+        - {name: 'MATHEMATICS-I' ,credits: 4}
+        - {name: 'PHYSICS' ,credits: 4}
+        - {name: 'BASIC ELECTRICAL ENG.' ,credits: 4}
+        - {name: 'INDIAN CONSTITUTION' ,credits: 0}
+      practical:
+        - {name: 'ENGINEERING GRAPHICS' ,credits: 3}
+        - {name: 'BASIC ELECT.ENG. LAB' ,credits: 1}
+        - {name: 'ENGINEERING PHYSICS LAB' ,credits: 1.5}
+    sem_credits: 17.5
+  second_sem:
+    subjects:
+      theory:
+        - {name: 'ENGLISH' ,credits: 2}
+        - {name: 'MATHEMATICS-II' ,credits: 4}
+        - {name: 'ENGINEERING CHEMISTRY' ,credits: 4}
+        - {name: 'PROG.FOR PROBLEM SOLVING' ,credits: 3}
+        - {name: 'ESSENCE OF INDIAN TR.KNOWLEDGE' ,credits: 0}
+        - {name: 'ENVIRONMENTAL SCIENCE' ,credits: 0}
+      practical:
+        - {name: 'WORKSHOP-MANUF.PROCESS LAB' ,credits: 3}
+        - {name: 'ENGLISH LAB' ,credits: 1}
+        - {name: 'ENGINEERING CHEMISTRY LAB' ,credits: 1.5}
+        - {name: 'PROG.FOR PROBLEM SOLVING LAB' ,credits: 1}
+    sem_credits: 19.5
+  third_sem:
+    subjects:
+      theory:
+        - {name: 'BASIC ELECTRONICS' ,credits: 3}
+        - {name: 'MATHEMA.FOUN.OF INF.TECHNOLOGY' ,credits: 3}
+        - {name: 'EFFECTIVE TECH.COMM.IN ENGLISH' ,credits: 3}
+        - {name: 'FINANCE AND ACCOUNTING' ,credits: 3}
+        - {name: 'MATHEMATICS-III' ,credits: 3}
+        - {name: 'DATA STRUCTURES' ,credits: 3}
+        - {name: 'DIGITAL ELECTRONICS' ,credits: 3}
+      practical:
+        - {name: 'BASIC ELECTRONICS LAB' ,credits: 1}
+        - {name: 'DATA STRUCTURES LAB' ,credits: 1}
+        - {name: 'IT WORKSHOP LAB' ,credits: 1}
+    sem_credits: 24
+  fourth_sem:
+    subjects:
+      theory:
+        - {name: 'SIGNALS AND SYSTEMS' ,credits: 3}
+        - {name: 'COM.ORGAN.& MICROPROCESSOR' ,credits: 3}
+        - {name: 'OPERATIONS RESEARCH' ,credits: 3}
+        - {name: 'DATABASE SYSTEMS' ,credits: 3}
+        - {name: 'JAVA PROGRAMMING' ,credits: 3}
+        - {name: 'DATA COMMUNICATIONS' ,credits: 3}
+      practical:
+        - {name: 'JAVA PROGRAMMING LAB' ,credits: 1}
+        - {name: 'MICROPROCESSOR LAB' ,credits: 1}
+        - {name: 'DATABASE SYSTEMS LAB' ,credits: 1}
+    sem_credits: 21
+  fifth_sem:
+    subjects:
+      theory:
+        - {name: 'ARTIFICIAL INTELLIGENCE' ,credits: 3}
+        - {name: 'OPERATING SYSTEMS' ,credits: 3}
+        - {name: 'SOFTWARE ENGINEERING' ,credits: 3}
+        - {name: 'AUTOMATA THEORY' ,credits: 3}
+        - {name: 'COMPUTER NETWORKS' ,credits: 3}
+        - {name: 'P.E-1' ,credits: 3}
+      practical:
+        - {name: 'WEB APPLICATION DEVELOP.LAB' ,credits: 1}
+        - {name: 'ARTIFICIAL INTELLIGENCE LAB' ,credits: 1}
+        - {name: 'COM.NETWORKS&OS LAB' ,credits: 1.5}
+    sem_credits: 21.5
+  sixth_sem:
+    subjects:
+      theory:
+        - {name: 'MACHINE LEARNING' ,credits: 3}
+        - {name: 'CRYPTOGRAPHY AND NET.SECURITY' ,credits: 3}
+        - {name: 'DESIGN & ANALYSIS OF ALGORITHMS' ,credits: 3}
+        - {name: 'P.E-2' ,credits: 3}
+        - {name: 'O.E-1' ,credits: 3}
+        - {name: 'EMBEDDED SYSTEM' ,credits: 3}
+      practical:
+        - {name: 'MINI PROJECT-1' ,credits: 3}
+        - {name: 'MACHINE LEARNING LAB' ,credits: 3}
+        - {name: 'MOBILE APPL.DEVELOPMENT LAB ' ,credits: 1}
+        - {name: 'EMBEDDED SYSTEM LAB' ,credits: 1}
+    sem_credits: 22    
+  seventh_sem:
+    subjects:
+      theory:
+        - {name: 'Internet of Things' ,credits: 3}
+        - {name: 'Big Data Analytics' ,credits: 3}
+        - {name: 'O.E-2' ,credits: 3}
+        - {name: 'P.E-3' ,credits: 3}
+        - {name: 'P.E-4' ,credits: 3}
+      practical:
+        - {name: 'Internet Of Things Lab' ,credits: 1}
+        - {name: 'SUMMER INTERNSHIP' ,credits: 2}
+        - {name: 'PROJECT WORK-I' ,credits:  3}
+    sem_credits: 21
+  eighth_sem:
+    subjects:
+      theory:
+        - {name: 'O.E-3' ,credits: 3}
+        - {name: 'P.E-5 ' ,credits: 3}
+      practical:
+        - {name: 'PROJECT WORK-II' ,credits: 8}
+    sem_credits: 14
+
+ElectricalAndCommunicationEngineering(ECE):
+  first_sem:
+    subjects:
+      theory:
+        - {name: 'MATHEMATICS-I', credits: 4}
+        - {name: 'PHYSICS', credits: 4}
+        - {name: 'BASIC ELECTRICAL ENG.', credits: 4}
+        - {name: 'INDIAN CONSTITUTION', credits: 0}
+      practical:
+        - {name: 'ENGINEERING GRAPHICS', credits: 3}
+        - {name: 'BASIC ELECT.ENG. LAB', credits: 1}
+        - {name: 'ENGINEERING PHYSICS LAB', credits: 1.5}
+    sem_credits: 17.5
+  second_sem:
+    subjects:
+      theory:
+        - {name: 'ENGLISH', credits: 2}
+        - {name: 'MATHEMATICS-II', credits: 4}
+        - {name: 'ENGINEERING CHEMISTRY', credits: 4}
+        - {name: 'PROG.FOR PROBLEM SOLVING', credits: 3}
+        - {name: 'ESSENCE OF INDIAN TR.KNOWLEDGE', credits: 0}
+        - {name: 'ENVIRONMENTAL SCIENCE', credits: 0}
+      practical:
+        - {name: 'WORKSHOP-MANUF.PROCESS LAB', credits: 3}
+        - {name: 'ENGLISH LAB', credits: 1}
+        - {name: 'ENGINEERING CHEMISTRY LAB', credits: 1.5}
+        - {name: 'PROG.FOR PROBLEM SOLVING LAB', credits: 1}
+    sem_credits: 19.5
+  third_sem:
+    subjects:
+      theory:
+        - {name: 'EFFECTIVE TECH.COMM.IN ENGLISH', credits: 3}
+        - {name: 'FINANCE AND ACCOUNTING', credits: 3}
+        - {name: 'Digital Electronics ', credits: 4}
+        - {name: 'Probability Theory and Stochastic Processes', credits: 4}
+        - {name: 'Electronic Devices', credits: 3}
+        - {name: 'Network Theory', credits: 4}
+      practical:
+        - {name: 'Electronic Devices and Circuits Lab', credits: 1}
+        - {name: 'Electronic Workshop ', credits: 1}
+    sem_credits: 23
+  fourth_sem:
+    subjects:
+      theory:
+        - {name: 'Signals and Systems', credits: 4}
+        - {name: 'Analog Electronic Circuits', credits: 3}
+        - {name: 'Computer Organization and Architecture', credits: 3}
+        - {name: 'Electromagnetic Theory and Transmission Lines', credits: 3}
+        - {name: 'Pulse and Linear Integrated Circuits', credits: 3}
+        - {name: 'Electronic Measurements and Instrumentation', credits: 3}
+      practical:
+        - {name: 'Analog Electronic Circuits Lab', credits: 1}
+        - {name: 'Pulse and Linear Integrated Circuits Lab', credits: 1}
+    sem_credits: 21
+  fifth_sem:
+    subjects:
+      theory:
+        - {name: 'Digital Signal Processing ', credits: 3}
+        - {name: 'Microprocessor and Microcontroller', credits: 3}
+        - {name: 'Analog Communication', credits: 3}
+        - {name: 'Automatic Control Systems', credits: 3}
+        - {name: 'Antennas and wave Propagation', credits: 3}
+        - {name: 'Industrial Administration and Financial Management', credits: 3}
+      practical:
+        - {name: 'Microprocessor and Microcontroller Lab', credits: 1}
+        - {name: 'Systems and Signal Processing Lab', credits: 1}
+        - {name: 'Mini Project', credits: 2}
+    sem_credits: 22
+  sixth_sem:
+    subjects:
+      theory:
+        - {name: 'Digital Communication', credits: 3}
+        - {name: 'VLSI Design', credits: 3}
+        - {name: 'Data Communication and Computer Networks', credits: 3}
+        - {name: 'Professional Elective-I ', credits: 3}
+        - {name: 'Professional Elective-II', credits: 3}
+        - {name: 'Open Elective-I', credits: 3}
+      practical:
+        - {name: 'Communication Systems Lab', credits: 1}
+        - {name: 'Digital Integrated Circuits Lab', credits: 1}
+        - {name: 'Data Communication and Computer Networks Lab', credits: 1}
+    sem_credits: 21
+  seventh_sem:
+    subjects:
+      theory:
+        - {name: 'Microwave Theory and Techniques', credits: 3}
+        - {name: 'Professional Elective 3', credits: 3}
+        - {name: 'Professional Elective 4', credits: 3}
+        - {name: 'Open Elective 2', credits: 3}
+      practical:
+        - {name: 'PROJECT WORK-I', credits: 2}
+        - {name: 'SUMMER INTERNSHIP', credits: 2}
+        - {name: 'EMBED.SYS.AND IOT APPLI.LAB', credits: 1}
+        - {name: 'Microwave Theory and Techniques Lab', credits: 1}
+    sem_credits: 18
+
+  eighth_sem:
+    subjects:
+      theory:
+      - {name: 'Professional Elective 5', credits: 3}
+      - {name: 'Professional Elective 6', credits: 3}
+      - {name: 'Open Elective 3', credits: 3}
+      practical:
+      - {name: 'PROJECT WORK-II', credits: 8}
+    sem_credits: 17
+
+Mechanical(MECH):
+  first_sem:
+    theory:
+      - {name: 'MATHEMATICS-I', credits: 4}
+      - {name: 'PHYSICS', credits: 4}
+      - {name: 'BASIC ELECTRICAL ENG.', credits: 4}
+      - {name: 'INDIAN CONSTITUTION', credits: 0}
+    practical:
+      - {name: 'ENGINEERING GRAPHICS', credits: 3}
+      - {name: 'BASIC ELECT.ENG. LAB', credits: 1}
+      - {name: 'ENGINEERING PHYSICS LAB', credits: 1.5}
+    subjects:
+    sem_credits: 17.5
+  second_sem:
+    subjects:
+      theory:
+        - {name: 'ENGLISH', credits: 2}
+        - {name: 'MATHEMATICS-II', credits: 4}
+        - {name: 'ENGINEERING CHEMISTRY', credits: 4}
+        - {name: 'PROG.FOR PROBLEM SOLVING', credits: 3}
+        - {name: 'ESSENCE OF INDIAN TR.KNOWLEDGE', credits: 0}
+        - {name: 'ENVIRONMENTAL SCIENCE', credits: 0}
+      practical:
+        - {name: 'WORKSHOP-MANUF.PROCESS LAB', credits: 3}
+        - {name: 'ENGLISH LAB', credits: 1}
+        - {name: 'ENGINEERING CHEMISTRY LAB', credits: 1.5}
+        - {name: 'PROG.FOR PROBLEM SOLVING LAB', credits: 1}
+    sem_credits: 19.5
+  third_sem:
+    subjects:
+      theory:
+        - {name: 'BASIC ELECTRONICS', credits: 3}
+        - {name: 'EFFECTIVE TECH.COMM.IN ENGLISH', credits: 2}
+        - {name: 'FINANCE AND ACCOUNTING', credits: 3}
+        - {name: 'MATHEMATICS-III', credits: 3}
+        - {name: 'Engineering Mechanic-I ', credits: 3}
+        - {name: 'Metallurgy and Material Science', credits: 3}
+        - {name: 'Thermodynamics ', credits: 3}
+      practical:
+        - {name: 'Metallurgy and Material Testing Lab', credits: 1}
+        - {name: 'Machine Drawing and Modeling Lab ', credits: 1}
+    sem_credits: 22
+  fourth_sem:
+    subjects:
+      theory:
+        - {name: 'Engineering Mechanic-II', credits: 3}
+        - {name: 'Fluid Mechanics ', credits: 3}
+        - {name: 'Energy Sciences and Engineering ', credits: 2}
+        - {name: 'Mechanics of Materials', credits: 3}
+        - {name: 'Applied Thermodynamics', credits: 3}
+        - {name: 'Kinematics of Machinery', credits: 3}
+        - {name: 'Manufacturing Processes', credits: 3}
+      practical:
+        - {name: 'Thermal Engineering Lab -I', credits: 1}
+        - {name: 'Manufacturing Processes Lab', credits: 1}
+    sem_credits: 22
+  fifth_sem:
+    subjects:
+      theory:
+        - {name: 'Hydraulic Machines', credits: 3}
+        - {name: 'Design of Machine Elements', credits: 3}
+        - {name: 'Dynamics of Machines', credits: 3}
+        - {name: 'Metrology and Instrumentation', credits: 3}
+        - {name: 'Heat Transfer', credits: 3}
+        - {name: 'Professional Elective-I', credits: 3}
+      practical:
+        - {name: 'Thermal Engineering Lab-2', credits: 1}
+        - {name: 'Dynamics of Machines Lab ', credits: 1}
+        - {name: 'Fluid Mechanics and Hydraulics Machinery Lab', credits: 1}
+    sem_credits: 21
+  sixth_sem:
+    subjects:
+      theory:
+        - {name: 'Machine Design', credits: 3}
+        - {name: 'Metal Cutting and Machine Tools', credits: 3}
+        - {name: 'Finite Element Analysis', credits: 3}
+        - {name: 'Professional Elective-II ', credits: 3}
+        - {name: 'Professional Elective-III ', credits: 3}
+        - {name: 'Open Elective-I', credits: 3}
+      practical:
+        - {name: 'Metrology and Machine Tools Lab ', credits: 1}
+        - {name: 'Computer Aided Engineering Lab', credits: 1}
+    sem_credits: 20
+  seventh_sem:
+    subjects:
+      theory:
+        - {name: 'Operations Research', credits: 3}
+        - {name: 'Automation in Manufacturing', credits: 3}
+        - {name: 'Professional Elective-IV', credits: 3}
+        - {name: 'Professional Elective-V', credits: 3}
+        - {name: 'Open Elective-II', credits: 3}
+        - {name: 'Unknown Subject ', credits: 3}
+      practical:
+        - {name: 'Unknown Lab', credits: 1}
+    sem_credits: 19
+  eighth_sem:
+    subjects:
+      theory:
+        - {name: 'Professional Elective-VI', credits: 3}
+        - {name: 'Open Elective-III ', credits: 3}
+      practical:
+        - {name: 'Project Work', credits: 8}
+    sem_credits: 14

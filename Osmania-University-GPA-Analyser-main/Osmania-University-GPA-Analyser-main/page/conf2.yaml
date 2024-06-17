@@ -1,0 +1,642 @@
+ComputerScienceEngineering(CSE):
+  first_sem :
+    subjects : 
+      theory:
+        - Environmental science
+        - Ess. of Indian Trad.Knowledge
+        - Mathematics - I
+        - Chemistry
+        - Prog.For Problem Solving
+      practical:
+        - Chemistry Lab
+        - Workshop-Manuf . Process Lab
+        - Prog.For Problem Solving Lab
+    credits :
+      theory:
+        - 0
+        - 0
+        - 4
+        - 4
+        - 3
+      practical:
+        - 1.5
+        - 3
+        - 1
+  second_sem :
+    subjects :
+      theory:
+        - English
+        - Mathematics-II
+        - Physics
+        - Indian Constitution
+        - Basic Electrical Eng.
+      practical:
+        - English Lab
+        - Engineering Graphics Lab
+        - Physics Lab
+        - Basic Electrical Eng.Lab
+    credits :
+      theory:
+        - 2
+        - 4
+        - 4
+        - 0
+        - 4
+      practical:
+        - 1
+        - 3
+        - 1.5
+        - 1
+  third_sem :
+    subjects :
+      theory:
+        - Operations Research
+        - Basic Electronics
+        - Digital Electronics
+        - Data Structures and ALgorithms
+        - Discrete Mathematics
+        - OOP Using Java
+      practical:
+        - Data Struc.And ALgorithms Lab
+        - Advanced Computer Skills Lab
+        - Basic Electronics Lab
+        - OOP Using Java Lab
+    credits :
+      theory:
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+      practical:
+        - 1
+        - 1
+        - 1
+        - 1
+  fourth_sem :
+    subjects :
+      theory:
+        - Computer Organization
+        - Operating Systems
+        - Signals and Systems
+        - Database Management Systems
+        - Effective Tech.Comm.In English
+        - Finance and Accounting
+        - Mathematics-III
+      practical:
+        - Computer Organization Lab
+        - Operating Systems Lab
+        - Database Management Sys.Lab
+    credits :
+      theory:
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+      practical:
+        - 1
+        - 1
+        - 1
+  fifth_sem :
+    subjects :
+      theory:
+        - SOFTWARE ENGINEERING
+        - PRINCIPLES OF PROGRAM.LANG.
+        - AUTOMATA LANGUAGES & COMPUTATION
+        - ARTIFICIAL INTELLIGENCE
+        - COMPUTER NETWORKS
+        - Professional Elective –I
+      practical:
+        - COMPUTER NETWORKS LAB
+        - ARTIFICIAL INTELLIGENCE LAB
+        - SOFTWARE ENGINEERING LAB
+    credits :
+      theory:
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+      practical:
+        - 1
+        - 1
+        - 1
+  sixth_sem :
+    subjects :
+      theory:
+        - Compiler Design
+        - Design and Analysis of Algorithms
+        - Machine learning
+        - Cryptography and Network Security
+        - Professional Elective –II
+        - Open Elective-I
+      practical:
+        - Machine learning LAB
+        - Design and Analysis of Algorithms Lab
+        - Mini Project
+    credits :
+      theory:
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+        - 3
+      practical:
+        - 1
+        - 1
+        - 2
+  seventh_sem :
+    subjects :
+      theory:
+        - Distributed Systems
+        - Professional Elective –III
+        - Professional Elective –IV
+        - Open Elective -II
+      practical:
+        - Distributed Systems Lab
+        - Web Technologies Lab
+        - Project Work – I
+        - Summer Internship
+    credits :
+      theory:
+        - 3
+        - 3
+        - 3
+        - 3
+      practical:
+        - 1
+        - 2
+        - 3
+        - 2
+  eighth_sem :
+    subjects :
+      theory:
+        - Professional Elective -V
+        - Open Elective – III
+      practical:
+        - Project Work – II
+    credits :
+      theory:
+        - 3
+        - 3
+      practical:
+        - 8
+InformationTechnology(IT):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - BASIC ELECTRONICS
+      - MATHEMA.FOUN.OF INF.TECHNOLOGY
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - MATHEMATICS-III
+      - DATA STRUCTURES
+      - DIGITAL ELECTRONICS
+      - BASIC ELECTRONICS LAB
+      - DATA STRUCTURES LAB
+      - IT WORKSHOP LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - SIGNALS AND SYSTEMS
+      - COM.ORGAN.& MICROPROCESSOR
+      - OPERATIONS RESEARCH
+      - DATABASE SYSTEMS
+      - JAVA PROGRAMMING
+      - DATA COMMUNICATIONS
+      - JAVA PROGRAMMING LAB
+      - MICROPROCESSOR LAB
+      - DATABASE SYSTEMS LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - ARTIFICIAL INTELLIGENCE
+      - OPERATING SYSTEMS
+      - SOFTWARE ENGINEERING
+      - AUTOMATA THEORY
+      - COMPUTER NETWORKS
+      - P.E-1
+      - WEB APPLICATION DEVELOP.LAB
+      - ARTIFICIAL INTELLIGENCE LAB
+      - COM.NETWORKS&OS LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1.5
+  sixth_sem:
+    subjects:
+      - P.E-2
+      - O.E-1
+      - MACHINE LEARNING
+      - CRYPTOGRAPHY AND NET.SECURITY
+      - DESIGN&ANALYSIS OF ALGORITHMS
+      - EMBEDDED SYSTEM
+      - MINI PROJECT-1
+      - MACHINE LEARNING LAB
+      - MOBILE APPL.DEVELOPMENT LAB 
+      - EMBEDDED SYSTEM LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+      - 1 
+  seventh_sem:
+    subjects:
+      - Internet of Things
+      - Big Data Analytics
+      - O.E-2
+      - P.E-3
+      - P.E-4
+      - Internet Of Things Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+  eighth_sem:
+    subjects:
+      - O.E-3
+      - P.E-5 
+      - Project Work
+    credits:
+      - 3
+      - 3
+      - 8
+
+Mechanical(MECH):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - BASIC ELECTRONICS
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - MATHEMATICS-III
+      - Engineering Mechanic-I 
+      - Metallurgy and Material Science
+      - Thermodynamics 
+      - Metallurgy and Material Testing Lab
+      - Machine Drawing and Modeling Lab 
+    credits:
+      - 3
+      - 2
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - Engineering Mechanic-II
+      - Fluid Mechanics 
+      - Energy Sciences and Engineering 
+      - Mechanics of Materials
+      - Applied Thermodynamics
+      - Kinematics of Machinery
+      - Manufacturing Processes
+      - Thermal Engineering Lab -I
+      - Manufacturing Processes Lab
+    credits:
+      - 3
+      - 3
+      - 2
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - Hydraulic Machines
+      - Design of Machine Elements
+      - Dynamics of Machines
+      - Metrology and Instrumentation
+      - Heat Transfer
+      - Professional Elective-I
+      - Thermal Engineering Lab-2
+      - Dynamics of Machines Lab 
+      - Fluid Mechanics and Hydraulics Machinery Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  sixth_sem:
+    subjects:
+      - Machine Design
+      - Metal Cutting and Machine Tools
+      - Finite Element Analysis
+      - Professional Elective-II 
+      - Professional Elective-III 
+      - Open Elective-I
+      - Metrology and Machine Tools Lab 
+      - Computer Aided Engineering Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  seventh_sem:
+    subjects:
+      - Operations Research
+      - Automation in Manufacturing
+      - Professional Elective-IV
+      - Professional Elective-V
+      - Open Elective-II
+      - Unknown Subject 
+      - Unknown Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+  eighth_sem:
+    subjects:
+      - Professional Elective-VI
+      - Open Elective-III 
+      - Project Work
+    credits:
+      - 3
+      - 3
+      - 8
+
+ElectricalAndCommunicationEngineering(ECE):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - Digital Electronics 
+      - Probability Theory and Stochastic Processes
+      - Electronic Devices
+      - Network Theory
+      - Electronic Devices and Circuits Lab
+      - Electronic Workshop 
+    credits:
+      - 3
+      - 3
+      - 4
+      - 4
+      - 3
+      - 4
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - Signals and Systems
+      - Analog Electronic Circuits
+      - Computer Organization and Architecture
+      - Electromagnetic Theory and Transmission Lines
+      - Pulse and Linear Integrated Circuits
+      - Electronic Measurements and Instrumentation
+      - Analog Electronic Circuits Lab
+      - Pulse and Linear Integrated Circuits Lab
+    credits:
+      - 4
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - Digital Signal Processing 
+      - Microprocessor and Microcontroller
+      - Analog Communication
+      - Automatic Control Systems
+      - Antennas and wave Propagation
+      - Industrial Administration and Financial Management
+      - Microprocessor and Microcontroller Lab
+      - Systems and Signal Processing Lab
+      - Mini Project
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 2
+  sixth_sem:
+    subjects:
+      - Digital Communication
+      - VLSI Design
+      - Data Communication and Computer Networks
+      - Professional Elective-I 
+      - Professional Elective-II
+      - Open Elective-I
+      - Communication Systems Lab
+      - Digital Integrated Circuits Lab
+      - Data Communication and Computer Networks Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  seventh_sem:
+    subjects:
+      - Microwave Theory and Techniques
+      - Professional Elective 3
+      - Professional Elective 4
+      - Open Elective 2
+      - Open Elective 3
+      - Electronic Design Automation(EDA) Lab
+      - Microwave Theory and Techniques Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  eighth_sem:
+    subjects:
+      - Professional Elective 5
+      - Professional Elective 6
+      - Open Elective 4
+      - Project
+    credits:
+      - 3
+      - 3
+      - 3
+      - 8
